@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * Shiraz University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
