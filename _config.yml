@@ -78,8 +78,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Shiraz, Fars"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Vahid-Niazmand-2"
   uri              :
