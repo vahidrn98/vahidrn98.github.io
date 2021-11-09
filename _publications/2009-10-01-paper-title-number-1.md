@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Subcutaneous insulin administration by deep reinforcement learning for blood glucose level control of type-2 diabetic patients"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Deep-RL-for-insulin
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Journal of Artificial Intelligence in Medicine'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Raheb, M. A., Niazmand, <b>V. R.</b>, Eqra, N., & Vatankhah, R. (2021). &quot;Subcutaneous insulin administration by deep reinforcement learning for blood glucose level control of type-2 diabetic patients.&quot; <i>Journal of Artificial Intelligence in Medicine</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this study, normalized advantage function (NAF) algorithm has been applied as amodel-free reinforcement learning method to regulate the blood glucose level of typetwo diabetic patients through subcutaneous injection. The algorithm has beendesigned and developed in a model-free approach in order to avoid additionalinaccuracies and parameter uncertainty introduced by the mathematical models of theglucoregulatory system. Insulin dose levels which are stated directly in clinicallanguage constitute the actions. Glucose level and effective cumulative insulin in eachtime frame together shape the environment’s states. Moreover, the simulation modeltakes into account delayed effects of the absorption dynamics of the injected insulin inaddition to the glucose-insulin dynamic system. This gives a more complete and morerealistic model than the previously studied models for designing controllers. Also, asimple but practical reward function is developed to be used with the NAF algorithm inorder to correct the glucose level and maintain it in the desired range. Its performancewas then assessed using simulations of three virtual patients to ensure reliability androbustness of the results. NAF has proved a promising control approach, able tosuccessfully regulate and significantly reduce the fluctuation of the blood glucosewithout meal announcements.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+<!-- Recommended citation: •	Raheb, M. A., Niazmand, V. R., Eqra, N., & Vatankhah, R. (2021). "Subcutaneous insulin administration by deep reinforcement learning for blood glucose level control of type-2 diabetic patients." <i>Journal of Artificial Intelligence in Medicine</i>. 1(1). -->
