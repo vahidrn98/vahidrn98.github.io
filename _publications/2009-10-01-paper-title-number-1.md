@@ -3,7 +3,7 @@ title: "Subcutaneous insulin administration by deep reinforcement learning for b
 collection: publications
 permalink: /publication/Deep-RL-for-insulin
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2021
 venue: 'Journal of Artificial Intelligence in Medicine'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Raheb, M. A., Niazmand, <b>V. R.</b>, Eqra, N., & Vatankhah, R. (2021). &quot;Subcutaneous insulin administration by deep reinforcement learning for blood glucose level control of type-2 diabetic patients.&quot; <i>Journal of Artificial Intelligence in Medicine</i>. 1(1).'
