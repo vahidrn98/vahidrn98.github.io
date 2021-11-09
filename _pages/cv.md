@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV from [here](https://vahidrn98.github.io/files/cv_VahidRezaNiazmand.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
