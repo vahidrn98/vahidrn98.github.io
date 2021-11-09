@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my CV from [here](https://vahidrn98.github.io/files/cv_VahidRezaNiazmand.pdf)
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -58,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
