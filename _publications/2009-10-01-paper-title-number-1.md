@@ -2,7 +2,7 @@
 title: "Subcutaneous insulin administration by deep reinforcement learning for blood glucose level control of type-2 diabetic patients"
 collection: publications
 permalink: /publication/Deep-RL-for-insulin
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this study, normalized advantage function (NAF) algorithm has been applied as amodel-free reinforcement learning method to regulate the blood glucose level of typetwo diabetic patients through subcutaneous injection.'
 date: 2021-10-10
 venue: 'Journal of Artificial Intelligence in Medicine'
 paperurl: ''
