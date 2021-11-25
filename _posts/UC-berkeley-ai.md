@@ -1,7 +1,7 @@
 ---
 title: 'UC berkeley Pacman A.I. Agent Project Series'
 date: 2021-11-24
-permalink: /posts/2021/11/UC-berkeley-ai/
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - ucberkeley
   - ai
